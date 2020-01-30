@@ -1,4 +1,4 @@
-# dartmouth-cs52.github.io
+# ARCHIVE of http://cs52.me from Spring 2019
 
 Source for the website for Dartmouth CS52.  Updated periodically.  Now includes slides and notes. Contribute at your leisure.
 
